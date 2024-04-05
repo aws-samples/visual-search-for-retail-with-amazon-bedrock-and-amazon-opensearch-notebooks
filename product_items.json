@@ -1,0 +1,9 @@
+[
+    {
+        "pid": "<unique identifier of the product>",
+        "category": "<category of the product>",
+        "image_url": "<s3 url of the product image that can be used for creating embeddings.It is recommended to choose the best image for the product with clear features visible for better search accuracy.>",
+        "product_name": "<name of the product>",
+        "product_description": "<description of the product, used for creating multimodal embedding>"
+    }
+]
