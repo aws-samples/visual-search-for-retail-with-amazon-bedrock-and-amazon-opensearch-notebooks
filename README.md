@@ -26,6 +26,7 @@ Before running the notebooks, ensure you have access to the following:
 ## Data
 1. Make sure you replace the product_items.json with mandatory attributes for products from your catalog
 2. Upload your product images to Amazon S3. Update relevant sections of the notebook with appropriate S3 bucket name and object prefixes
+3. [Optional] You can create a synthetic dataset using Amazon Bedrock by adapting and running through this [notebook](https://github.com/aws-samples/amazon-bedrock-workshop/blob/main/04_Image_and_Multimodal/bedrock-titan-multimodal-embeddings.ipynb) to suit your needs.
 
 ## Running the Notebooks
 
